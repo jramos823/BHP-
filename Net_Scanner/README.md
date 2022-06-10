@@ -1,4 +1,4 @@
-# Net_scanner
+# Read me 
 
 Created using Python3.
 <br> I had some help using Scapy. A pack manipulation module. https://scapy.readthedocs.io/en/latest/introduction.html
